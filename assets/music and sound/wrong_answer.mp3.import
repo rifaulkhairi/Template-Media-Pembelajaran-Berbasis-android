@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/wrong_answer.mp3-da4e674d2520a48b532c8d250f445976.mp3str"
+
+[deps]
+
+source_file="res://assets/music and sound/wrong_answer.mp3"
+dest_files=[ "res://.import/wrong_answer.mp3-da4e674d2520a48b532c8d250f445976.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0
